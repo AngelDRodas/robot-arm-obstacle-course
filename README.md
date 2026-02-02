@@ -34,7 +34,7 @@ First Obstacle Course without the Trossen Arm installed
 
 First Obstacle Course with the Trossen Arm installed
 
-![Progress Photo](images/first_obs_course.png,jpg)
+![Progress Photo](images/first_obs_course.png)
 
 ### 4. Second Obstacle Course
 Second Obstacle Course beams
