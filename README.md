@@ -10,7 +10,7 @@ An obstacle course made for a robotic arm manipulator. This obstacle course was 
 ## Visualizations
 
 ### 1. Early Obstacle Course CAD
-Early version of the obstacle course developed by a Post Doctorate researcher. 
+Early version of the obstacle course developed by a Post Doctorate researcher which was then later refined by myself in conjuction with said post doc for HERA. 
 
 ![Obstacle Course CAD](images/obs_cad.png)
 
